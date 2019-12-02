@@ -1,4 +1,4 @@
-baseURL = "https://shiny-robot-brewery.github.io/"
+baseURL = "http://shinyrobotbrewery.com"
 languageCode = "en-uk"
 title = "Shiny Robot Brewery"
 theme = "massively"
