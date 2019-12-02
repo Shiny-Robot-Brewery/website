@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shiny Robot Brewery</title>
-    <link>http://shinyrobotbrewery.github.io/posts/</link>
+    <link>https://shiny-robot-brewery.github.io/posts/</link>
     <description>Recent content in Posts on Shiny Robot Brewery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 30 Nov 2019 14:35:57 +0100</lastBuildDate>
     
-	<atom:link href="http://shinyrobotbrewery.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shiny-robot-brewery.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beer Coming Soon</title>
-      <link>http://shinyrobotbrewery.github.io/posts/post/</link>
+      <link>https://shiny-robot-brewery.github.io/posts/post/</link>
       <pubDate>Sat, 30 Nov 2019 14:35:57 +0100</pubDate>
       
-      <guid>http://shinyrobotbrewery.github.io/posts/post/</guid>
+      <guid>https://shiny-robot-brewery.github.io/posts/post/</guid>
       <description>Brewing starts 2020, a selection of IPA&#39;s from singles to triples.</description>
     </item>
     
