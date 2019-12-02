@@ -3,7 +3,6 @@ languageCode = "en-uk"
 title = "Shiny Robot Brewery"
 theme = "massively"
 googleanalytics = "UA-153717876-1"
-publishDir = "docs"
 [params]
     favicon = "robot.ico"
     dateFormat = "2/1/2006"
@@ -22,3 +21,4 @@ publishDir = "docs"
   [privacy.instagram]
     disable = false
     simple = false
+    
