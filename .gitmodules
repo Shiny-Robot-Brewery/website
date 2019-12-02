@@ -1,3 +1,6 @@
 [submodule "quickstart/themes/massively"]
 	path = quickstart/themes/massively
 	url = https://github.com/curtistimson/hugo-theme-massively.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Shiny-Robot-Brewery/shinyrobotbrewery.github.io.git
