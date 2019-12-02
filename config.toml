@@ -1,0 +1,23 @@
+baseURL = "http://shinyrobotbrewery.com/"
+languageCode = "en-uk"
+title = "Shiny Robot Brewery"
+theme = "massively"
+googleanalytics = "UA-153717876-1"
+[params]
+    favicon = "robot.ico"
+    dateFormat = "2/1/2006"
+[params.posts]
+    folderName = "post"
+    pageSize = "6"
+    featuredPost = true
+    paginationPages = 2
+    showFirstLast = false    
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
